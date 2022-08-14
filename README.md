@@ -1,2 +1,2 @@
-# cinerama-stream
-Proof of concept: Torrent streaming server
+# cinerama-subs
+Subtitle service
